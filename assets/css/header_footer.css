@@ -17,6 +17,7 @@ nav {
   background-color: black;
   z-index: 100;
   transition: all .5s linear;
+  cursor: pointer;
 }
 
 nav .left {
