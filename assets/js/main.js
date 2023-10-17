@@ -33,7 +33,7 @@ gsap.from('.projects_section .project_container', {
   scrollTrigger: {
     trigger: ".projects_section",
     scroller: "body",
-    markers: true,
+    // markers: true,
     // start: "top 0%",
     end: "top -200%",
     // end: "top 20%",
